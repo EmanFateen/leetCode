@@ -43,8 +43,8 @@ Obviously, we can find three nested loops, split across three functions.
 The time complexity of this solution is `O(n³)` where n = number of rows.
 
 I started with the intention to find a general math equation that would be faster and give me lower time complexity,
-but it ended up being `O(n³)`. I may have over-engineered it the solution is much simpler than that.
+but it ended up being `O(n³)`.
 
-I can just generate each row from the previous one, and it will give me `O(n²)`. That’s it.
+This approach helped me understand the math behind it, but in practice, generating each row from the previous one gives a simpler and more efficient `O(n²)` solution.
 
 I will implement it tomorrow then 😉

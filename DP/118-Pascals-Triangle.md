@@ -9,7 +9,7 @@ After time of thinking, these are my findings:
 5. Of course, the last element in the left side for odd levels will not appear again in the right side
 
 ### Okay now, how to generate each row (level result)
-Hmmm, it took me a while to figure it out as I’m familiar with Pascal's Triangle theory, but here we are I realized that
+Hmmm, it took me a while to figure it out as I’m not familiar with Pascal's Triangle theory, but here we are I realized that
 each element in the row is actually equal to `(level - 1 C i)`, where i represents the element index in the row.
 
 Great!

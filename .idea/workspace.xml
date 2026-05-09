@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58cc696c-2722-4ed3-9440-f2c8f8d1f6be" name="Changes" comment="document solve Contains Duplicate&#10;&#10;https://leetcode.com/problems/contains-duplicate/description/" />
+    <list default="true" id="58cc696c-2722-4ed3-9440-f2c8f8d1f6be" name="Changes" comment="solve valid Longest Consecutive Sequence&#10;&#10;https://leetcode.com/problems/longest-consecutive-sequence/description/">
+      <change beforePath="$PROJECT_DIR$/.ai/mcp/mcp.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="8" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -17,19 +24,55 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "EmanFateen"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/EmanFateen/leetCode.git",
+    "accountId": "d94e689e-c57d-4577-a8bd-733c52850702"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3DUIQONZ3TWl03g9vKfAtx18r9I" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "/Users/macbookpro/Desktop/code/leetCode/Arrays",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external"
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -37,7 +80,74 @@
       <recent name="$PROJECT_DIR$/Arrays" />
     </key>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.29346.143" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58cc696c-2722-4ed3-9440-f2c8f8d1f6be" name="Changes" comment="document solve Contains Duplicate&#10;&#10;https://leetcode.com/problems/contains-duplicate/description/" />
+      <created>1778330204280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778330204280</updated>
+      <workItem from="1778330205327" duration="679000" />
+    </task>
+    <task id="LOCAL-00001" summary="document solve two sum&#10;&#10;https://leetcode.com/problems/two-sum/submissions/1836748451/">
+      <option name="closed" value="true" />
+      <created>1778330234826</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778330234826</updated>
+    </task>
+    <task id="LOCAL-00002" summary="document solve group anagrams&#10;&#10;https://leetcode.com/problems/group-anagrams/description/">
+      <option name="closed" value="true" />
+      <created>1778330294327</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778330294327</updated>
+    </task>
+    <task id="LOCAL-00003" summary="document solve Top K Frequent Elements&#10;&#10;https://leetcode.com/problems/top-k-frequent-elements/description/">
+      <option name="closed" value="true" />
+      <created>1778330344066</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778330344066</updated>
+    </task>
+    <task id="LOCAL-00004" summary="document solve valid sudoko&#10;&#10;https://leetcode.com/problems/valid-sudoku/description/">
+      <option name="closed" value="true" />
+      <created>1778330398218</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1778330398218</updated>
+    </task>
+    <task id="LOCAL-00005" summary="solve valid Longest Consecutive Sequence&#10;&#10;https://leetcode.com/problems/longest-consecutive-sequence/description/">
+      <option name="closed" value="true" />
+      <created>1778330497381</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1778330497381</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="document solve two sum&#10;&#10;https://leetcode.com/problems/two-sum/submissions/1836748451/" />
+    <MESSAGE value="document solve group anagrams&#10;&#10;https://leetcode.com/problems/group-anagrams/description/" />
+    <MESSAGE value="document solve Top K Frequent Elements&#10;&#10;https://leetcode.com/problems/top-k-frequent-elements/description/" />
+    <MESSAGE value="document solve valid sudoko&#10;&#10;https://leetcode.com/problems/valid-sudoku/description/" />
+    <MESSAGE value="solve valid Longest Consecutive Sequence&#10;&#10;https://leetcode.com/problems/longest-consecutive-sequence/description/" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve valid Longest Consecutive Sequence&#10;&#10;https://leetcode.com/problems/longest-consecutive-sequence/description/" />
   </component>
 </project>
